@@ -40,6 +40,18 @@ A simple URL Shortener system built using C++ that converts long URLs into short
 
 ---
 
+##🔮 Future Improvements:
+
+Convert into Web API (Flask / Node.js)
+
+Add database (MySQL / SQLite)
+
+Build frontend UI (React)
+
+Deploy as live service
+
+Add authentication for users
+
 ## ▶️ How to Run
 
 ### Compile:
